@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dfb11c5-351b-4bf2-8027-74fbfd64df91" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/HTML25.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon_1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon_2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon_3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon_4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon_5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon_6.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +33,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Git/HTML25",
+    "last_opened_file_path": "D:/Git/TMS-FE24/TMS-FE24/TMS-FE24-homework",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "copyright.filetypes.SVG",
     "vue.rearranger.settings.migration": "true"
@@ -49,7 +51,7 @@
       <workItem from="1761686999786" duration="63000" />
       <workItem from="1761687064499" duration="2023000" />
       <workItem from="1761689475981" duration="191000" />
-      <workItem from="1761689669942" duration="3574000" />
+      <workItem from="1761689669942" duration="10583000" />
     </task>
     <servers />
   </component>
